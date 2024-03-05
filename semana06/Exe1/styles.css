@@ -1,0 +1,19 @@
+header {
+    background-color: #fff;
+    color: #151515;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #fff;
+    color: #151515;
+    text-align: center;
+    position: fixed;
+    bottom: 0%;
+    width:auto;
+}
